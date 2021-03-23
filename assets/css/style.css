@@ -70,6 +70,16 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 
+.button-alone {
+  background: #0daa5a;
+  border: 0;
+  border-radius: 3px;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
